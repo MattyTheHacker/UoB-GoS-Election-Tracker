@@ -1,1 +1,1 @@
-"# UoB-GoS-Election-Tracker" 
+# UoB-GoS-Election-Tracker
