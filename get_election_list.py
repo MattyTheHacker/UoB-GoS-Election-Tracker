@@ -3,6 +3,7 @@ Get's a list of elections and saves it into a file in the `data` folder
 Designed to indicate when new elections have been created on MSL
 """
 
+from notif_utils import *
 from utils import *
 
 base_url = "https://www.guildofstudents.com/svc/voting/stats/election/paramstats/" + \
@@ -67,3 +68,12 @@ def get_election_list():
 
 if __name__ == "__main__":
     get_election_list()
+
+    # send a notification if new election data is found
+    if check_for_changes():
+        # changes found, send notif
+        print("[INFO] Changes found, sending notification...")
+        new_election_data()
+    else:
+        # no changes found
+        print("[INFO] No changes found.")
