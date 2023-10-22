@@ -18,7 +18,7 @@ def get_election_list():
 
     """
     We currently have no way to distinguish between no access to an election and it not existing
-    As a workaround to this, we'll check for 10 failed in a row, at which point we assume that's all of them
+    As a workaround to this, we'll check for 50 failed in a row, at which point we assume that's all of them
     """
 
     # the number of failed attempts to get an election
@@ -40,7 +40,7 @@ def get_election_list():
             failed_attempts += 1
 
             print("[INFO] Failed to get election with ID " +
-                  str(current_id) + " (" + str(failed_attempts) + "/10)")
+                  str(current_id) + " (" + str(failed_attempts) + "/50)")
 
         else:
             # Add the ID and title to the dictionary
