@@ -27,7 +27,7 @@ def get_election_list():
     # current ID to check
     current_id = 1
 
-    while failed_attempts < 10:
+    while failed_attempts < 50:
         url = "https://www.guildofstudents.com/svc/voting/stats/election/paramstats/" + \
             str(current_id) + "?groupIds=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&sortBy=itemname&sortDirection=ascending"
 
