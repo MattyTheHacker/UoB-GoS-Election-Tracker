@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # cd to the directory
-cd /home/pi/Documents/UoB-GoS-Election-Tracker/
+cd /home/cogs/Documents/UoB-GoS-Election-Tracker/
 
 # run the script
 python get_election_list.py
