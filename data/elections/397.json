@@ -1,0 +1,168 @@
+{
+    "Id": 397,
+    "Title": "Test Election 4",
+    "Organisation": {
+        "Id": 42029,
+        "Name": "Test Student Group"
+    },
+    "Eligible": 13,
+    "Voters": 5,
+    "NonVoters": 8,
+    "Votes": 5,
+    "PostCount": 4,
+    "CandidateCount": 1,
+    "IndividualCandidateCount": 1,
+    "DateGenerated": "2026-05-15T20:03:08.8273339+01:00",
+    "Groups": [
+        {
+            "Name": "Age range",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 5,
+                    "NonVoters": 8,
+                    "Eligible": 13,
+                    "IsOtherItem": true,
+                    "Turnout": 38.4615384615385,
+                    "RelativeTurnout": 38.4615384615385
+                }
+            ]
+        },
+        {
+            "Name": "Data source",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 5,
+                    "NonVoters": 8,
+                    "Eligible": 13,
+                    "IsOtherItem": true,
+                    "Turnout": 38.4615384615385,
+                    "RelativeTurnout": 38.4615384615385
+                }
+            ]
+        },
+        {
+            "Name": "Fees status",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 5,
+                    "NonVoters": 8,
+                    "Eligible": 13,
+                    "IsOtherItem": true,
+                    "Turnout": 38.4615384615385,
+                    "RelativeTurnout": 38.4615384615385
+                }
+            ]
+        },
+        {
+            "Name": "Mode of study",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 5,
+                    "NonVoters": 8,
+                    "Eligible": 13,
+                    "IsOtherItem": true,
+                    "Turnout": 38.4615384615385,
+                    "RelativeTurnout": 38.4615384615385
+                },
+                {
+                    "Name": "Writing-up - previously full-time.",
+                    "Voters": 0,
+                    "NonVoters": 0,
+                    "Eligible": 0,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Residency",
+            "Items": [
+                {
+                    "Name": "Pritchatts Park Village",
+                    "Voters": 0,
+                    "NonVoters": 0,
+                    "Eligible": 0,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Sex",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 5,
+                    "NonVoters": 8,
+                    "Eligible": 13,
+                    "IsOtherItem": true,
+                    "Turnout": 38.4615384615385,
+                    "RelativeTurnout": 38.4615384615385
+                }
+            ]
+        },
+        {
+            "Name": "Student type",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 5,
+                    "NonVoters": 8,
+                    "Eligible": 13,
+                    "IsOtherItem": true,
+                    "Turnout": 38.4615384615385,
+                    "RelativeTurnout": 38.4615384615385
+                }
+            ]
+        },
+        {
+            "Name": "Department",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 5,
+                    "NonVoters": 8,
+                    "Eligible": 13,
+                    "IsOtherItem": true,
+                    "Turnout": 38.4615384615385,
+                    "RelativeTurnout": 38.4615384615385
+                }
+            ]
+        },
+        {
+            "Name": "College",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 5,
+                    "NonVoters": 8,
+                    "Eligible": 13,
+                    "IsOtherItem": true,
+                    "Turnout": 38.4615384615385,
+                    "RelativeTurnout": 38.4615384615385
+                }
+            ]
+        },
+        {
+            "Name": "Course Code",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 5,
+                    "NonVoters": 8,
+                    "Eligible": 13,
+                    "IsOtherItem": true,
+                    "Turnout": 38.4615384615385,
+                    "RelativeTurnout": 38.4615384615385
+                }
+            ]
+        }
+    ],
+    "Turnout": 38.4615384615385
+}

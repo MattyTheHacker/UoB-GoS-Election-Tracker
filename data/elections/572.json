@@ -1,0 +1,218 @@
+{
+    "Id": 572,
+    "Title": "Enactus August Elections 2025 - Round 2",
+    "Organisation": {
+        "Id": 11982,
+        "Name": "Enactus"
+    },
+    "Eligible": 7,
+    "Voters": 3,
+    "NonVoters": 4,
+    "Votes": 6,
+    "PostCount": 3,
+    "CandidateCount": 2,
+    "IndividualCandidateCount": 2,
+    "DateGenerated": "2026-05-15T20:04:25.9279323+01:00",
+    "Groups": [
+        {
+            "Name": "Age range",
+            "Items": [
+                {
+                    "Name": "18 - 21",
+                    "Voters": 3,
+                    "NonVoters": 4,
+                    "Eligible": 7,
+                    "IsOtherItem": false,
+                    "Turnout": 42.8571428571429,
+                    "RelativeTurnout": 42.8571428571429
+                }
+            ]
+        },
+        {
+            "Name": "Data source",
+            "Items": [
+                {
+                    "Name": "FILE",
+                    "Voters": 3,
+                    "NonVoters": 4,
+                    "Eligible": 7,
+                    "IsOtherItem": false,
+                    "Turnout": 42.8571428571429,
+                    "RelativeTurnout": 42.8571428571429
+                }
+            ]
+        },
+        {
+            "Name": "Fees status",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 3,
+                    "NonVoters": 4,
+                    "Eligible": 7,
+                    "IsOtherItem": true,
+                    "Turnout": 42.8571428571429,
+                    "RelativeTurnout": 42.8571428571429
+                }
+            ]
+        },
+        {
+            "Name": "Mode of study",
+            "Items": [
+                {
+                    "Name": "Full-time",
+                    "Voters": 3,
+                    "NonVoters": 4,
+                    "Eligible": 7,
+                    "IsOtherItem": false,
+                    "Turnout": 42.8571428571429,
+                    "RelativeTurnout": 42.8571428571429
+                },
+                {
+                    "Name": "Writing-up - previously full-time.",
+                    "Voters": 0,
+                    "NonVoters": 0,
+                    "Eligible": 0,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Residency",
+            "Items": [
+                {
+                    "Name": "Pritchatts Park Village",
+                    "Voters": 0,
+                    "NonVoters": 0,
+                    "Eligible": 0,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Sex",
+            "Items": [
+                {
+                    "Name": "F",
+                    "Voters": 3,
+                    "NonVoters": 4,
+                    "Eligible": 7,
+                    "IsOtherItem": false,
+                    "Turnout": 42.8571428571429,
+                    "RelativeTurnout": 42.8571428571429
+                }
+            ]
+        },
+        {
+            "Name": "Student type",
+            "Items": [
+                {
+                    "Name": "Undergraduate",
+                    "Voters": 3,
+                    "NonVoters": 4,
+                    "Eligible": 7,
+                    "IsOtherItem": false,
+                    "Turnout": 42.8571428571429,
+                    "RelativeTurnout": 42.8571428571429
+                }
+            ]
+        },
+        {
+            "Name": "Year of study",
+            "Items": [
+                {
+                    "Name": "2nd year",
+                    "Voters": 0,
+                    "NonVoters": 3,
+                    "Eligible": 3,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "3rd year",
+                    "Voters": 3,
+                    "NonVoters": 1,
+                    "Eligible": 4,
+                    "IsOtherItem": false,
+                    "Turnout": 75.0,
+                    "RelativeTurnout": 42.8571428571429
+                }
+            ]
+        },
+        {
+            "Name": "Department",
+            "Items": [
+                {
+                    "Name": "Biomedical Sciences",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Political Sci & Intern'tl Stud",
+                    "Voters": 1,
+                    "NonVoters": 3,
+                    "Eligible": 4,
+                    "IsOtherItem": false,
+                    "Turnout": 25.0,
+                    "RelativeTurnout": 14.2857142857143
+                },
+                {
+                    "Name": "Soc Policy, Sociology & Crimin",
+                    "Voters": 2,
+                    "NonVoters": 0,
+                    "Eligible": 2,
+                    "IsOtherItem": false,
+                    "Turnout": 100.0,
+                    "RelativeTurnout": 28.5714285714286
+                }
+            ]
+        },
+        {
+            "Name": "College",
+            "Items": [
+                {
+                    "Name": "College of Medicine and Health",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "College of Social Sciences",
+                    "Voters": 3,
+                    "NonVoters": 3,
+                    "Eligible": 6,
+                    "IsOtherItem": false,
+                    "Turnout": 50.0,
+                    "RelativeTurnout": 42.8571428571429
+                }
+            ]
+        },
+        {
+            "Name": "Course Code",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 3,
+                    "NonVoters": 4,
+                    "Eligible": 7,
+                    "IsOtherItem": true,
+                    "Turnout": 42.8571428571429,
+                    "RelativeTurnout": 42.8571428571429
+                }
+            ]
+        }
+    ],
+    "Turnout": 42.8571428571429
+}

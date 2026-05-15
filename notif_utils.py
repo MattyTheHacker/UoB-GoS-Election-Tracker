@@ -22,15 +22,3 @@ def check_for_changes():
     else:
         # no changes found, return false
         return False
-
-
-def new_election_data():
-    # send a notification indicating how many new shifts are available
-    requests.post(
-        "https://ntfy.sh/" + TOPIC,
-        data = "There are is new election data available!",
-        headers = {
-            "Title": "New Election Details!",
-            "Priority": "4"
-        }
-    )

@@ -1,0 +1,263 @@
+{
+    "Id": 260,
+    "Title": "Nursing Online Election May 2024",
+    "Organisation": {
+        "Id": 22478,
+        "Name": "Nursing Society"
+    },
+    "Eligible": 133,
+    "Voters": 22,
+    "NonVoters": 111,
+    "Votes": 62,
+    "PostCount": 5,
+    "CandidateCount": 6,
+    "IndividualCandidateCount": 6,
+    "DateGenerated": "2026-05-15T19:58:08.4754687+01:00",
+    "Groups": [
+        {
+            "Name": "Age range",
+            "Items": [
+                {
+                    "Name": "18 - 21",
+                    "Voters": 20,
+                    "NonVoters": 73,
+                    "Eligible": 93,
+                    "IsOtherItem": false,
+                    "Turnout": 21.505376344086,
+                    "RelativeTurnout": 15.0375939849624
+                },
+                {
+                    "Name": "22 - 25",
+                    "Voters": 2,
+                    "NonVoters": 24,
+                    "Eligible": 26,
+                    "IsOtherItem": false,
+                    "Turnout": 7.69230769230769,
+                    "RelativeTurnout": 1.50375939849624
+                },
+                {
+                    "Name": "26 - 30",
+                    "Voters": 0,
+                    "NonVoters": 9,
+                    "Eligible": 9,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Over 30",
+                    "Voters": 0,
+                    "NonVoters": 5,
+                    "Eligible": 5,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Data source",
+            "Items": [
+                {
+                    "Name": "FILE",
+                    "Voters": 22,
+                    "NonVoters": 111,
+                    "Eligible": 133,
+                    "IsOtherItem": false,
+                    "Turnout": 16.5413533834586,
+                    "RelativeTurnout": 16.5413533834586
+                }
+            ]
+        },
+        {
+            "Name": "Fees status",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 22,
+                    "NonVoters": 111,
+                    "Eligible": 133,
+                    "IsOtherItem": true,
+                    "Turnout": 16.5413533834586,
+                    "RelativeTurnout": 16.5413533834586
+                }
+            ]
+        },
+        {
+            "Name": "Mode of study",
+            "Items": [
+                {
+                    "Name": "Full-time",
+                    "Voters": 22,
+                    "NonVoters": 111,
+                    "Eligible": 133,
+                    "IsOtherItem": false,
+                    "Turnout": 16.5413533834586,
+                    "RelativeTurnout": 16.5413533834586
+                },
+                {
+                    "Name": "Writing-up - previously full-time.",
+                    "Voters": 0,
+                    "NonVoters": 0,
+                    "Eligible": 0,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Residency",
+            "Items": [
+                {
+                    "Name": "Pritchatts Park Village",
+                    "Voters": 0,
+                    "NonVoters": 0,
+                    "Eligible": 0,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Tennis Court",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Sex",
+            "Items": [
+                {
+                    "Name": "F",
+                    "Voters": 22,
+                    "NonVoters": 108,
+                    "Eligible": 130,
+                    "IsOtherItem": false,
+                    "Turnout": 16.9230769230769,
+                    "RelativeTurnout": 16.5413533834586
+                },
+                {
+                    "Name": "M",
+                    "Voters": 0,
+                    "NonVoters": 3,
+                    "Eligible": 3,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Student type",
+            "Items": [
+                {
+                    "Name": "Postgraduate Taught",
+                    "Voters": 0,
+                    "NonVoters": 4,
+                    "Eligible": 4,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Undergraduate",
+                    "Voters": 22,
+                    "NonVoters": 107,
+                    "Eligible": 129,
+                    "IsOtherItem": false,
+                    "Turnout": 17.0542635658915,
+                    "RelativeTurnout": 16.5413533834586
+                }
+            ]
+        },
+        {
+            "Name": "Year of study",
+            "Items": [
+                {
+                    "Name": "1st year",
+                    "Voters": 7,
+                    "NonVoters": 45,
+                    "Eligible": 52,
+                    "IsOtherItem": false,
+                    "Turnout": 13.4615384615385,
+                    "RelativeTurnout": 5.26315789473684
+                },
+                {
+                    "Name": "2nd year",
+                    "Voters": 7,
+                    "NonVoters": 14,
+                    "Eligible": 21,
+                    "IsOtherItem": false,
+                    "Turnout": 33.3333333333333,
+                    "RelativeTurnout": 5.26315789473684
+                },
+                {
+                    "Name": "3rd year",
+                    "Voters": 7,
+                    "NonVoters": 33,
+                    "Eligible": 40,
+                    "IsOtherItem": false,
+                    "Turnout": 17.5,
+                    "RelativeTurnout": 5.26315789473684
+                },
+                {
+                    "Name": "4th year",
+                    "Voters": 1,
+                    "NonVoters": 19,
+                    "Eligible": 20,
+                    "IsOtherItem": false,
+                    "Turnout": 5.0,
+                    "RelativeTurnout": 0.75187969924812
+                }
+            ]
+        },
+        {
+            "Name": "Department",
+            "Items": [
+                {
+                    "Name": "Nursing and Midwifery",
+                    "Voters": 22,
+                    "NonVoters": 111,
+                    "Eligible": 133,
+                    "IsOtherItem": false,
+                    "Turnout": 16.5413533834586,
+                    "RelativeTurnout": 16.5413533834586
+                }
+            ]
+        },
+        {
+            "Name": "College",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 22,
+                    "NonVoters": 111,
+                    "Eligible": 133,
+                    "IsOtherItem": true,
+                    "Turnout": 16.5413533834586,
+                    "RelativeTurnout": 16.5413533834586
+                }
+            ]
+        },
+        {
+            "Name": "Course Code",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 22,
+                    "NonVoters": 111,
+                    "Eligible": 133,
+                    "IsOtherItem": true,
+                    "Turnout": 16.5413533834586,
+                    "RelativeTurnout": 16.5413533834586
+                }
+            ]
+        }
+    ],
+    "Turnout": 16.5413533834586
+}

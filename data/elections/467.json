@@ -1,0 +1,290 @@
+{
+    "Id": 467,
+    "Title": "Oncology Society May Elections 2025",
+    "Organisation": {
+        "Id": 6013,
+        "Name": "University of Birmingham Guild of Students"
+    },
+    "Eligible": 74,
+    "Voters": 35,
+    "NonVoters": 39,
+    "Votes": 168,
+    "PostCount": 9,
+    "CandidateCount": 14,
+    "IndividualCandidateCount": 8,
+    "DateGenerated": "2026-05-15T20:03:29.4824919+01:00",
+    "Groups": [
+        {
+            "Name": "Age range",
+            "Items": [
+                {
+                    "Name": "18 - 21",
+                    "Voters": 22,
+                    "NonVoters": 23,
+                    "Eligible": 45,
+                    "IsOtherItem": false,
+                    "Turnout": 48.8888888888889,
+                    "RelativeTurnout": 29.7297297297297
+                },
+                {
+                    "Name": "22 - 25",
+                    "Voters": 11,
+                    "NonVoters": 16,
+                    "Eligible": 27,
+                    "IsOtherItem": false,
+                    "Turnout": 40.7407407407407,
+                    "RelativeTurnout": 14.8648648648649
+                },
+                {
+                    "Name": "26 - 30",
+                    "Voters": 2,
+                    "NonVoters": 2,
+                    "Eligible": 4,
+                    "IsOtherItem": false,
+                    "Turnout": 50.0,
+                    "RelativeTurnout": 2.7027027027027
+                }
+            ]
+        },
+        {
+            "Name": "Data source",
+            "Items": [
+                {
+                    "Name": "FILE",
+                    "Voters": 35,
+                    "NonVoters": 41,
+                    "Eligible": 76,
+                    "IsOtherItem": false,
+                    "Turnout": 46.0526315789474,
+                    "RelativeTurnout": 47.2972972972973
+                }
+            ]
+        },
+        {
+            "Name": "Fees status",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 35,
+                    "NonVoters": 41,
+                    "Eligible": 76,
+                    "IsOtherItem": true,
+                    "Turnout": 46.0526315789474,
+                    "RelativeTurnout": 47.2972972972973
+                }
+            ]
+        },
+        {
+            "Name": "Mode of study",
+            "Items": [
+                {
+                    "Name": "Full-time",
+                    "Voters": 35,
+                    "NonVoters": 41,
+                    "Eligible": 76,
+                    "IsOtherItem": false,
+                    "Turnout": 46.0526315789474,
+                    "RelativeTurnout": 47.2972972972973
+                },
+                {
+                    "Name": "Writing-up - previously full-time.",
+                    "Voters": 0,
+                    "NonVoters": 0,
+                    "Eligible": 0,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Residency",
+            "Items": [
+                {
+                    "Name": "Mason",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Pritchatts Park Village",
+                    "Voters": 0,
+                    "NonVoters": 0,
+                    "Eligible": 0,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Sex",
+            "Items": [
+                {
+                    "Name": "F",
+                    "Voters": 22,
+                    "NonVoters": 30,
+                    "Eligible": 52,
+                    "IsOtherItem": false,
+                    "Turnout": 42.3076923076923,
+                    "RelativeTurnout": 29.7297297297297
+                },
+                {
+                    "Name": "M",
+                    "Voters": 13,
+                    "NonVoters": 11,
+                    "Eligible": 24,
+                    "IsOtherItem": false,
+                    "Turnout": 54.1666666666667,
+                    "RelativeTurnout": 17.5675675675676
+                }
+            ]
+        },
+        {
+            "Name": "Student type",
+            "Items": [
+                {
+                    "Name": "Postgraduate Research",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Undergraduate",
+                    "Voters": 35,
+                    "NonVoters": 40,
+                    "Eligible": 75,
+                    "IsOtherItem": false,
+                    "Turnout": 46.6666666666667,
+                    "RelativeTurnout": 47.2972972972973
+                }
+            ]
+        },
+        {
+            "Name": "Year of study",
+            "Items": [
+                {
+                    "Name": "1st year",
+                    "Voters": 0,
+                    "NonVoters": 12,
+                    "Eligible": 12,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "2nd year",
+                    "Voters": 3,
+                    "NonVoters": 6,
+                    "Eligible": 9,
+                    "IsOtherItem": false,
+                    "Turnout": 33.3333333333333,
+                    "RelativeTurnout": 4.05405405405405
+                },
+                {
+                    "Name": "3rd year",
+                    "Voters": 19,
+                    "NonVoters": 7,
+                    "Eligible": 26,
+                    "IsOtherItem": false,
+                    "Turnout": 73.0769230769231,
+                    "RelativeTurnout": 25.6756756756757
+                },
+                {
+                    "Name": "4th year",
+                    "Voters": 11,
+                    "NonVoters": 14,
+                    "Eligible": 25,
+                    "IsOtherItem": false,
+                    "Turnout": 44.0,
+                    "RelativeTurnout": 14.8648648648649
+                },
+                {
+                    "Name": "5th year +",
+                    "Voters": 2,
+                    "NonVoters": 2,
+                    "Eligible": 4,
+                    "IsOtherItem": false,
+                    "Turnout": 50.0,
+                    "RelativeTurnout": 2.7027027027027
+                }
+            ]
+        },
+        {
+            "Name": "Department",
+            "Items": [
+                {
+                    "Name": "Birmingham Medical School",
+                    "Voters": 33,
+                    "NonVoters": 39,
+                    "Eligible": 72,
+                    "IsOtherItem": false,
+                    "Turnout": 45.8333333333333,
+                    "RelativeTurnout": 44.5945945945946
+                },
+                {
+                    "Name": "Inst of Cancer / Genomic Sci",
+                    "Voters": 2,
+                    "NonVoters": 0,
+                    "Eligible": 2,
+                    "IsOtherItem": false,
+                    "Turnout": 100.0,
+                    "RelativeTurnout": 2.7027027027027
+                },
+                {
+                    "Name": "Inst of Immunol + Immunoth",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Pharmacy",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "College",
+            "Items": [
+                {
+                    "Name": "College of Medicine and Health",
+                    "Voters": 35,
+                    "NonVoters": 41,
+                    "Eligible": 76,
+                    "IsOtherItem": false,
+                    "Turnout": 46.0526315789474,
+                    "RelativeTurnout": 47.2972972972973
+                }
+            ]
+        },
+        {
+            "Name": "Course Code",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 35,
+                    "NonVoters": 41,
+                    "Eligible": 76,
+                    "IsOtherItem": true,
+                    "Turnout": 46.0526315789474,
+                    "RelativeTurnout": 47.2972972972973
+                }
+            ]
+        }
+    ],
+    "Turnout": 47.2972972972973
+}

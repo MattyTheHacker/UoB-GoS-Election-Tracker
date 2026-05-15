@@ -1,0 +1,254 @@
+{
+    "Id": 576,
+    "Title": "Pharmaceutical Society EGM September 2025",
+    "Organisation": {
+        "Id": 11890,
+        "Name": "Pharmaceutical"
+    },
+    "Eligible": 19,
+    "Voters": 12,
+    "NonVoters": 7,
+    "Votes": 49,
+    "PostCount": 5,
+    "CandidateCount": 9,
+    "IndividualCandidateCount": 6,
+    "DateGenerated": "2026-05-15T20:04:26.8429401+01:00",
+    "Groups": [
+        {
+            "Name": "Age range",
+            "Items": [
+                {
+                    "Name": "18 - 21",
+                    "Voters": 12,
+                    "NonVoters": 5,
+                    "Eligible": 17,
+                    "IsOtherItem": false,
+                    "Turnout": 70.5882352941176,
+                    "RelativeTurnout": 63.1578947368421
+                },
+                {
+                    "Name": "22 - 25",
+                    "Voters": 0,
+                    "NonVoters": 2,
+                    "Eligible": 2,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Data source",
+            "Items": [
+                {
+                    "Name": "FILE",
+                    "Voters": 12,
+                    "NonVoters": 7,
+                    "Eligible": 19,
+                    "IsOtherItem": false,
+                    "Turnout": 63.1578947368421,
+                    "RelativeTurnout": 63.1578947368421
+                }
+            ]
+        },
+        {
+            "Name": "Fees status",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 12,
+                    "NonVoters": 7,
+                    "Eligible": 19,
+                    "IsOtherItem": true,
+                    "Turnout": 63.1578947368421,
+                    "RelativeTurnout": 63.1578947368421
+                }
+            ]
+        },
+        {
+            "Name": "Mode of study",
+            "Items": [
+                {
+                    "Name": "Full-time",
+                    "Voters": 12,
+                    "NonVoters": 7,
+                    "Eligible": 19,
+                    "IsOtherItem": false,
+                    "Turnout": 63.1578947368421,
+                    "RelativeTurnout": 63.1578947368421
+                },
+                {
+                    "Name": "Writing-up - previously full-time.",
+                    "Voters": 0,
+                    "NonVoters": 0,
+                    "Eligible": 0,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Residency",
+            "Items": [
+                {
+                    "Name": "Pritchatts Park Village",
+                    "Voters": 0,
+                    "NonVoters": 0,
+                    "Eligible": 0,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Sex",
+            "Items": [
+                {
+                    "Name": "F",
+                    "Voters": 9,
+                    "NonVoters": 7,
+                    "Eligible": 16,
+                    "IsOtherItem": false,
+                    "Turnout": 56.25,
+                    "RelativeTurnout": 47.3684210526316
+                },
+                {
+                    "Name": "M",
+                    "Voters": 3,
+                    "NonVoters": 0,
+                    "Eligible": 3,
+                    "IsOtherItem": false,
+                    "Turnout": 100.0,
+                    "RelativeTurnout": 15.7894736842105
+                }
+            ]
+        },
+        {
+            "Name": "Student type",
+            "Items": [
+                {
+                    "Name": "Postgraduate Taught",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Undergraduate",
+                    "Voters": 12,
+                    "NonVoters": 6,
+                    "Eligible": 18,
+                    "IsOtherItem": false,
+                    "Turnout": 66.6666666666666,
+                    "RelativeTurnout": 63.1578947368421
+                }
+            ]
+        },
+        {
+            "Name": "Year of study",
+            "Items": [
+                {
+                    "Name": "1st year",
+                    "Voters": 3,
+                    "NonVoters": 4,
+                    "Eligible": 7,
+                    "IsOtherItem": false,
+                    "Turnout": 42.8571428571429,
+                    "RelativeTurnout": 15.7894736842105
+                },
+                {
+                    "Name": "2nd year",
+                    "Voters": 5,
+                    "NonVoters": 1,
+                    "Eligible": 6,
+                    "IsOtherItem": false,
+                    "Turnout": 83.3333333333334,
+                    "RelativeTurnout": 26.3157894736842
+                },
+                {
+                    "Name": "3rd year",
+                    "Voters": 4,
+                    "NonVoters": 1,
+                    "Eligible": 5,
+                    "IsOtherItem": false,
+                    "Turnout": 80.0,
+                    "RelativeTurnout": 21.0526315789474
+                },
+                {
+                    "Name": "4th year",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Department",
+            "Items": [
+                {
+                    "Name": "Pharmacy",
+                    "Voters": 12,
+                    "NonVoters": 6,
+                    "Eligible": 18,
+                    "IsOtherItem": false,
+                    "Turnout": 66.6666666666666,
+                    "RelativeTurnout": 63.1578947368421
+                },
+                {
+                    "Name": "School of Biosciences",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "College",
+            "Items": [
+                {
+                    "Name": "College of Life and Environmental Sciences",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "College of Medicine and Health",
+                    "Voters": 12,
+                    "NonVoters": 6,
+                    "Eligible": 18,
+                    "IsOtherItem": false,
+                    "Turnout": 66.6666666666666,
+                    "RelativeTurnout": 63.1578947368421
+                }
+            ]
+        },
+        {
+            "Name": "Course Code",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 12,
+                    "NonVoters": 7,
+                    "Eligible": 19,
+                    "IsOtherItem": true,
+                    "Turnout": 63.1578947368421,
+                    "RelativeTurnout": 63.1578947368421
+                }
+            ]
+        }
+    ],
+    "Turnout": 63.1578947368421
+}

@@ -1,0 +1,272 @@
+{
+    "Id": 436,
+    "Title": "Cardiovascular Society March Elections 2025",
+    "Organisation": {
+        "Id": 6013,
+        "Name": "University of Birmingham Guild of Students"
+    },
+    "Eligible": 117,
+    "Voters": 58,
+    "NonVoters": 59,
+    "Votes": 451,
+    "PostCount": 12,
+    "CandidateCount": 35,
+    "IndividualCandidateCount": 21,
+    "DateGenerated": "2026-05-15T20:03:21.4274291+01:00",
+    "Groups": [
+        {
+            "Name": "Age range",
+            "Items": [
+                {
+                    "Name": "18 - 21",
+                    "Voters": 55,
+                    "NonVoters": 44,
+                    "Eligible": 99,
+                    "IsOtherItem": false,
+                    "Turnout": 55.5555555555556,
+                    "RelativeTurnout": 47.008547008547
+                },
+                {
+                    "Name": "22 - 25",
+                    "Voters": 3,
+                    "NonVoters": 14,
+                    "Eligible": 17,
+                    "IsOtherItem": false,
+                    "Turnout": 17.6470588235294,
+                    "RelativeTurnout": 2.56410256410256
+                },
+                {
+                    "Name": "26 - 30",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Data source",
+            "Items": [
+                {
+                    "Name": "FILE",
+                    "Voters": 58,
+                    "NonVoters": 59,
+                    "Eligible": 117,
+                    "IsOtherItem": false,
+                    "Turnout": 49.5726495726496,
+                    "RelativeTurnout": 49.5726495726496
+                }
+            ]
+        },
+        {
+            "Name": "Fees status",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 58,
+                    "NonVoters": 59,
+                    "Eligible": 117,
+                    "IsOtherItem": true,
+                    "Turnout": 49.5726495726496,
+                    "RelativeTurnout": 49.5726495726496
+                }
+            ]
+        },
+        {
+            "Name": "Mode of study",
+            "Items": [
+                {
+                    "Name": "Full-time",
+                    "Voters": 58,
+                    "NonVoters": 59,
+                    "Eligible": 117,
+                    "IsOtherItem": false,
+                    "Turnout": 49.5726495726496,
+                    "RelativeTurnout": 49.5726495726496
+                },
+                {
+                    "Name": "Writing-up - previously full-time.",
+                    "Voters": 0,
+                    "NonVoters": 0,
+                    "Eligible": 0,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Residency",
+            "Items": [
+                {
+                    "Name": "Pritchatts Park Village",
+                    "Voters": 0,
+                    "NonVoters": 0,
+                    "Eligible": 0,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Sex",
+            "Items": [
+                {
+                    "Name": "F",
+                    "Voters": 34,
+                    "NonVoters": 35,
+                    "Eligible": 69,
+                    "IsOtherItem": false,
+                    "Turnout": 49.2753623188406,
+                    "RelativeTurnout": 29.0598290598291
+                },
+                {
+                    "Name": "M",
+                    "Voters": 24,
+                    "NonVoters": 24,
+                    "Eligible": 48,
+                    "IsOtherItem": false,
+                    "Turnout": 50.0,
+                    "RelativeTurnout": 20.5128205128205
+                }
+            ]
+        },
+        {
+            "Name": "Student type",
+            "Items": [
+                {
+                    "Name": "Undergraduate",
+                    "Voters": 58,
+                    "NonVoters": 59,
+                    "Eligible": 117,
+                    "IsOtherItem": false,
+                    "Turnout": 49.5726495726496,
+                    "RelativeTurnout": 49.5726495726496
+                }
+            ]
+        },
+        {
+            "Name": "Year of study",
+            "Items": [
+                {
+                    "Name": "1st year",
+                    "Voters": 9,
+                    "NonVoters": 11,
+                    "Eligible": 20,
+                    "IsOtherItem": false,
+                    "Turnout": 45.0,
+                    "RelativeTurnout": 7.69230769230769
+                },
+                {
+                    "Name": "2nd year",
+                    "Voters": 27,
+                    "NonVoters": 14,
+                    "Eligible": 41,
+                    "IsOtherItem": false,
+                    "Turnout": 65.8536585365854,
+                    "RelativeTurnout": 23.0769230769231
+                },
+                {
+                    "Name": "3rd year",
+                    "Voters": 19,
+                    "NonVoters": 14,
+                    "Eligible": 33,
+                    "IsOtherItem": false,
+                    "Turnout": 57.5757575757576,
+                    "RelativeTurnout": 16.2393162393162
+                },
+                {
+                    "Name": "4th year",
+                    "Voters": 1,
+                    "NonVoters": 16,
+                    "Eligible": 17,
+                    "IsOtherItem": false,
+                    "Turnout": 5.88235294117647,
+                    "RelativeTurnout": 0.854700854700855
+                },
+                {
+                    "Name": "5th year +",
+                    "Voters": 2,
+                    "NonVoters": 4,
+                    "Eligible": 6,
+                    "IsOtherItem": false,
+                    "Turnout": 33.3333333333333,
+                    "RelativeTurnout": 1.70940170940171
+                }
+            ]
+        },
+        {
+            "Name": "Department",
+            "Items": [
+                {
+                    "Name": "Biomedical Sciences",
+                    "Voters": 0,
+                    "NonVoters": 2,
+                    "Eligible": 2,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Birmingham Medical School",
+                    "Voters": 58,
+                    "NonVoters": 56,
+                    "Eligible": 114,
+                    "IsOtherItem": false,
+                    "Turnout": 50.8771929824561,
+                    "RelativeTurnout": 49.5726495726496
+                },
+                {
+                    "Name": "Phil, Theol & Religion",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "College",
+            "Items": [
+                {
+                    "Name": "College of Arts and Law",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "College of Medicine and Health",
+                    "Voters": 58,
+                    "NonVoters": 58,
+                    "Eligible": 116,
+                    "IsOtherItem": false,
+                    "Turnout": 50.0,
+                    "RelativeTurnout": 49.5726495726496
+                }
+            ]
+        },
+        {
+            "Name": "Course Code",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 58,
+                    "NonVoters": 59,
+                    "Eligible": 117,
+                    "IsOtherItem": true,
+                    "Turnout": 49.5726495726496,
+                    "RelativeTurnout": 49.5726495726496
+                }
+            ]
+        }
+    ],
+    "Turnout": 49.5726495726496
+}

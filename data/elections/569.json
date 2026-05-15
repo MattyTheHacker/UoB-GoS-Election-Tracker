@@ -1,0 +1,254 @@
+{
+    "Id": 569,
+    "Title": "Respiratory EGM August 2025",
+    "Organisation": {
+        "Id": 40320,
+        "Name": "Respiratory Society (RespSoc)"
+    },
+    "Eligible": 39,
+    "Voters": 27,
+    "NonVoters": 12,
+    "Votes": 70,
+    "PostCount": 3,
+    "CandidateCount": 10,
+    "IndividualCandidateCount": 7,
+    "DateGenerated": "2026-05-15T20:03:55.3826969+01:00",
+    "Groups": [
+        {
+            "Name": "Age range",
+            "Items": [
+                {
+                    "Name": "18 - 21",
+                    "Voters": 16,
+                    "NonVoters": 12,
+                    "Eligible": 28,
+                    "IsOtherItem": false,
+                    "Turnout": 57.1428571428571,
+                    "RelativeTurnout": 41.025641025641
+                },
+                {
+                    "Name": "22 - 25",
+                    "Voters": 11,
+                    "NonVoters": 0,
+                    "Eligible": 11,
+                    "IsOtherItem": false,
+                    "Turnout": 100.0,
+                    "RelativeTurnout": 28.2051282051282
+                }
+            ]
+        },
+        {
+            "Name": "Data source",
+            "Items": [
+                {
+                    "Name": "FILE",
+                    "Voters": 27,
+                    "NonVoters": 12,
+                    "Eligible": 39,
+                    "IsOtherItem": false,
+                    "Turnout": 69.2307692307692,
+                    "RelativeTurnout": 69.2307692307692
+                }
+            ]
+        },
+        {
+            "Name": "Fees status",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 27,
+                    "NonVoters": 12,
+                    "Eligible": 39,
+                    "IsOtherItem": true,
+                    "Turnout": 69.2307692307692,
+                    "RelativeTurnout": 69.2307692307692
+                }
+            ]
+        },
+        {
+            "Name": "Mode of study",
+            "Items": [
+                {
+                    "Name": "Full-time",
+                    "Voters": 27,
+                    "NonVoters": 12,
+                    "Eligible": 39,
+                    "IsOtherItem": false,
+                    "Turnout": 69.2307692307692,
+                    "RelativeTurnout": 69.2307692307692
+                },
+                {
+                    "Name": "Writing-up - previously full-time.",
+                    "Voters": 0,
+                    "NonVoters": 0,
+                    "Eligible": 0,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Residency",
+            "Items": [
+                {
+                    "Name": "Pritchatts Park Village",
+                    "Voters": 0,
+                    "NonVoters": 0,
+                    "Eligible": 0,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Sex",
+            "Items": [
+                {
+                    "Name": "F",
+                    "Voters": 20,
+                    "NonVoters": 8,
+                    "Eligible": 28,
+                    "IsOtherItem": false,
+                    "Turnout": 71.4285714285714,
+                    "RelativeTurnout": 51.2820512820513
+                },
+                {
+                    "Name": "M",
+                    "Voters": 7,
+                    "NonVoters": 4,
+                    "Eligible": 11,
+                    "IsOtherItem": false,
+                    "Turnout": 63.6363636363636,
+                    "RelativeTurnout": 17.948717948718
+                }
+            ]
+        },
+        {
+            "Name": "Student type",
+            "Items": [
+                {
+                    "Name": "Undergraduate",
+                    "Voters": 27,
+                    "NonVoters": 12,
+                    "Eligible": 39,
+                    "IsOtherItem": false,
+                    "Turnout": 69.2307692307692,
+                    "RelativeTurnout": 69.2307692307692
+                }
+            ]
+        },
+        {
+            "Name": "Year of study",
+            "Items": [
+                {
+                    "Name": "1st year",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "2nd year",
+                    "Voters": 0,
+                    "NonVoters": 4,
+                    "Eligible": 4,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "3rd year",
+                    "Voters": 12,
+                    "NonVoters": 3,
+                    "Eligible": 15,
+                    "IsOtherItem": false,
+                    "Turnout": 80.0,
+                    "RelativeTurnout": 30.7692307692308
+                },
+                {
+                    "Name": "4th year",
+                    "Voters": 8,
+                    "NonVoters": 3,
+                    "Eligible": 11,
+                    "IsOtherItem": false,
+                    "Turnout": 72.7272727272727,
+                    "RelativeTurnout": 20.5128205128205
+                },
+                {
+                    "Name": "5th year +",
+                    "Voters": 7,
+                    "NonVoters": 1,
+                    "Eligible": 8,
+                    "IsOtherItem": false,
+                    "Turnout": 87.5,
+                    "RelativeTurnout": 17.948717948718
+                }
+            ]
+        },
+        {
+            "Name": "Department",
+            "Items": [
+                {
+                    "Name": "Biomedical Sciences",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Birmingham Medical School",
+                    "Voters": 27,
+                    "NonVoters": 10,
+                    "Eligible": 37,
+                    "IsOtherItem": false,
+                    "Turnout": 72.972972972973,
+                    "RelativeTurnout": 69.2307692307692
+                },
+                {
+                    "Name": "Inst of Cancer / Genomic Sci",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "College",
+            "Items": [
+                {
+                    "Name": "College of Medicine and Health",
+                    "Voters": 27,
+                    "NonVoters": 12,
+                    "Eligible": 39,
+                    "IsOtherItem": false,
+                    "Turnout": 69.2307692307692,
+                    "RelativeTurnout": 69.2307692307692
+                }
+            ]
+        },
+        {
+            "Name": "Course Code",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 27,
+                    "NonVoters": 12,
+                    "Eligible": 39,
+                    "IsOtherItem": true,
+                    "Turnout": 69.2307692307692,
+                    "RelativeTurnout": 69.2307692307692
+                }
+            ]
+        }
+    ],
+    "Turnout": 69.2307692307692
+}

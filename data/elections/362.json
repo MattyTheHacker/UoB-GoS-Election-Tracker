@@ -1,0 +1,272 @@
+{
+    "Id": 362,
+    "Title": "BEDsoc Online Election October 2024",
+    "Organisation": {
+        "Id": 22470,
+        "Name": "BEDsoc"
+    },
+    "Eligible": 86,
+    "Voters": 7,
+    "NonVoters": 79,
+    "Votes": 12,
+    "PostCount": 2,
+    "CandidateCount": 6,
+    "IndividualCandidateCount": 4,
+    "DateGenerated": "2026-05-15T19:59:30.7161088+01:00",
+    "Groups": [
+        {
+            "Name": "Age range",
+            "Items": [
+                {
+                    "Name": "18 - 21",
+                    "Voters": 7,
+                    "NonVoters": 77,
+                    "Eligible": 84,
+                    "IsOtherItem": false,
+                    "Turnout": 8.33333333333333,
+                    "RelativeTurnout": 8.13953488372093
+                },
+                {
+                    "Name": "22 - 25",
+                    "Voters": 0,
+                    "NonVoters": 2,
+                    "Eligible": 2,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Data source",
+            "Items": [
+                {
+                    "Name": "FILE",
+                    "Voters": 7,
+                    "NonVoters": 79,
+                    "Eligible": 86,
+                    "IsOtherItem": false,
+                    "Turnout": 8.13953488372093,
+                    "RelativeTurnout": 8.13953488372093
+                }
+            ]
+        },
+        {
+            "Name": "Fees status",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 7,
+                    "NonVoters": 79,
+                    "Eligible": 86,
+                    "IsOtherItem": true,
+                    "Turnout": 8.13953488372093,
+                    "RelativeTurnout": 8.13953488372093
+                }
+            ]
+        },
+        {
+            "Name": "Mode of study",
+            "Items": [
+                {
+                    "Name": "Full-time",
+                    "Voters": 7,
+                    "NonVoters": 79,
+                    "Eligible": 86,
+                    "IsOtherItem": false,
+                    "Turnout": 8.13953488372093,
+                    "RelativeTurnout": 8.13953488372093
+                },
+                {
+                    "Name": "Writing-up - previously full-time.",
+                    "Voters": 0,
+                    "NonVoters": 0,
+                    "Eligible": 0,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Residency",
+            "Items": [
+                {
+                    "Name": "Pritchatts Park Village",
+                    "Voters": 0,
+                    "NonVoters": 0,
+                    "Eligible": 0,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Sex",
+            "Items": [
+                {
+                    "Name": "F",
+                    "Voters": 6,
+                    "NonVoters": 71,
+                    "Eligible": 77,
+                    "IsOtherItem": false,
+                    "Turnout": 7.79220779220779,
+                    "RelativeTurnout": 6.97674418604651
+                },
+                {
+                    "Name": "M",
+                    "Voters": 1,
+                    "NonVoters": 8,
+                    "Eligible": 9,
+                    "IsOtherItem": false,
+                    "Turnout": 11.1111111111111,
+                    "RelativeTurnout": 1.16279069767442
+                }
+            ]
+        },
+        {
+            "Name": "Student type",
+            "Items": [
+                {
+                    "Name": "Postgraduate Taught",
+                    "Voters": 0,
+                    "NonVoters": 2,
+                    "Eligible": 2,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Undergraduate",
+                    "Voters": 7,
+                    "NonVoters": 77,
+                    "Eligible": 84,
+                    "IsOtherItem": false,
+                    "Turnout": 8.33333333333333,
+                    "RelativeTurnout": 8.13953488372093
+                }
+            ]
+        },
+        {
+            "Name": "Year of study",
+            "Items": [
+                {
+                    "Name": "1st year",
+                    "Voters": 1,
+                    "NonVoters": 70,
+                    "Eligible": 71,
+                    "IsOtherItem": false,
+                    "Turnout": 1.40845070422535,
+                    "RelativeTurnout": 1.16279069767442
+                },
+                {
+                    "Name": "2nd year",
+                    "Voters": 1,
+                    "NonVoters": 2,
+                    "Eligible": 3,
+                    "IsOtherItem": false,
+                    "Turnout": 33.3333333333333,
+                    "RelativeTurnout": 1.16279069767442
+                },
+                {
+                    "Name": "3rd year",
+                    "Voters": 5,
+                    "NonVoters": 7,
+                    "Eligible": 12,
+                    "IsOtherItem": false,
+                    "Turnout": 41.6666666666667,
+                    "RelativeTurnout": 5.81395348837209
+                }
+            ]
+        },
+        {
+            "Name": "Department",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 0,
+                    "NonVoters": 4,
+                    "Eligible": 4,
+                    "IsOtherItem": true,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Classics, AH and Archaeology",
+                    "Voters": 0,
+                    "NonVoters": 4,
+                    "Eligible": 4,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "English Literature",
+                    "Voters": 5,
+                    "NonVoters": 52,
+                    "Eligible": 57,
+                    "IsOtherItem": false,
+                    "Turnout": 8.7719298245614,
+                    "RelativeTurnout": 5.81395348837209
+                },
+                {
+                    "Name": "Film and Creative Writing",
+                    "Voters": 2,
+                    "NonVoters": 10,
+                    "Eligible": 12,
+                    "IsOtherItem": false,
+                    "Turnout": 16.6666666666667,
+                    "RelativeTurnout": 2.32558139534884
+                },
+                {
+                    "Name": "Modern Languages",
+                    "Voters": 0,
+                    "NonVoters": 7,
+                    "Eligible": 7,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Philosophy",
+                    "Voters": 0,
+                    "NonVoters": 2,
+                    "Eligible": 2,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "College",
+            "Items": [
+                {
+                    "Name": "College of Arts and Law",
+                    "Voters": 7,
+                    "NonVoters": 79,
+                    "Eligible": 86,
+                    "IsOtherItem": false,
+                    "Turnout": 8.13953488372093,
+                    "RelativeTurnout": 8.13953488372093
+                }
+            ]
+        },
+        {
+            "Name": "Course Code",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 7,
+                    "NonVoters": 79,
+                    "Eligible": 86,
+                    "IsOtherItem": true,
+                    "Turnout": 8.13953488372093,
+                    "RelativeTurnout": 8.13953488372093
+                }
+            ]
+        }
+    ],
+    "Turnout": 8.13953488372093
+}

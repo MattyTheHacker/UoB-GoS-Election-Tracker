@@ -1,0 +1,344 @@
+{
+    "Id": 493,
+    "Title": "BACAS May Elections 2025",
+    "Organisation": {
+        "Id": 6171,
+        "Name": "BACAS"
+    },
+    "Eligible": 92,
+    "Voters": 50,
+    "NonVoters": 42,
+    "Votes": 325,
+    "PostCount": 7,
+    "CandidateCount": 16,
+    "IndividualCandidateCount": 13,
+    "DateGenerated": "2026-05-15T20:03:36.302547+01:00",
+    "Groups": [
+        {
+            "Name": "Age range",
+            "Items": [
+                {
+                    "Name": "18 - 21",
+                    "Voters": 47,
+                    "NonVoters": 39,
+                    "Eligible": 86,
+                    "IsOtherItem": false,
+                    "Turnout": 54.6511627906977,
+                    "RelativeTurnout": 51.0869565217391
+                },
+                {
+                    "Name": "22 - 25",
+                    "Voters": 3,
+                    "NonVoters": 2,
+                    "Eligible": 5,
+                    "IsOtherItem": false,
+                    "Turnout": 60.0,
+                    "RelativeTurnout": 3.26086956521739
+                },
+                {
+                    "Name": "26 - 30",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Data source",
+            "Items": [
+                {
+                    "Name": "FILE",
+                    "Voters": 50,
+                    "NonVoters": 42,
+                    "Eligible": 92,
+                    "IsOtherItem": false,
+                    "Turnout": 54.3478260869565,
+                    "RelativeTurnout": 54.3478260869565
+                }
+            ]
+        },
+        {
+            "Name": "Fees status",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 50,
+                    "NonVoters": 42,
+                    "Eligible": 92,
+                    "IsOtherItem": true,
+                    "Turnout": 54.3478260869565,
+                    "RelativeTurnout": 54.3478260869565
+                }
+            ]
+        },
+        {
+            "Name": "Mode of study",
+            "Items": [
+                {
+                    "Name": "Full-time",
+                    "Voters": 50,
+                    "NonVoters": 42,
+                    "Eligible": 92,
+                    "IsOtherItem": false,
+                    "Turnout": 54.3478260869565,
+                    "RelativeTurnout": 54.3478260869565
+                },
+                {
+                    "Name": "Writing-up - previously full-time.",
+                    "Voters": 0,
+                    "NonVoters": 0,
+                    "Eligible": 0,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Residency",
+            "Items": [
+                {
+                    "Name": "Pritchatts Park Village",
+                    "Voters": 0,
+                    "NonVoters": 0,
+                    "Eligible": 0,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "Sex",
+            "Items": [
+                {
+                    "Name": "F",
+                    "Voters": 37,
+                    "NonVoters": 29,
+                    "Eligible": 66,
+                    "IsOtherItem": false,
+                    "Turnout": 56.0606060606061,
+                    "RelativeTurnout": 40.2173913043478
+                },
+                {
+                    "Name": "M",
+                    "Voters": 12,
+                    "NonVoters": 13,
+                    "Eligible": 25,
+                    "IsOtherItem": false,
+                    "Turnout": 48.0,
+                    "RelativeTurnout": 13.0434782608696
+                },
+                {
+                    "Name": "N",
+                    "Voters": 1,
+                    "NonVoters": 0,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 100.0,
+                    "RelativeTurnout": 1.08695652173913
+                }
+            ]
+        },
+        {
+            "Name": "Student type",
+            "Items": [
+                {
+                    "Name": "Postgraduate Taught",
+                    "Voters": 1,
+                    "NonVoters": 0,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 100.0,
+                    "RelativeTurnout": 1.08695652173913
+                },
+                {
+                    "Name": "Undergraduate",
+                    "Voters": 49,
+                    "NonVoters": 42,
+                    "Eligible": 91,
+                    "IsOtherItem": false,
+                    "Turnout": 53.8461538461538,
+                    "RelativeTurnout": 53.2608695652174
+                }
+            ]
+        },
+        {
+            "Name": "Year of study",
+            "Items": [
+                {
+                    "Name": "1st year",
+                    "Voters": 18,
+                    "NonVoters": 22,
+                    "Eligible": 40,
+                    "IsOtherItem": false,
+                    "Turnout": 45.0,
+                    "RelativeTurnout": 19.5652173913043
+                },
+                {
+                    "Name": "2nd year",
+                    "Voters": 15,
+                    "NonVoters": 9,
+                    "Eligible": 24,
+                    "IsOtherItem": false,
+                    "Turnout": 62.5,
+                    "RelativeTurnout": 16.304347826087
+                },
+                {
+                    "Name": "3rd year",
+                    "Voters": 17,
+                    "NonVoters": 11,
+                    "Eligible": 28,
+                    "IsOtherItem": false,
+                    "Turnout": 60.7142857142857,
+                    "RelativeTurnout": 18.4782608695652
+                }
+            ]
+        },
+        {
+            "Name": "Department",
+            "Items": [
+                {
+                    "Name": "African Studies & Anthropology",
+                    "Voters": 1,
+                    "NonVoters": 2,
+                    "Eligible": 3,
+                    "IsOtherItem": false,
+                    "Turnout": 33.3333333333333,
+                    "RelativeTurnout": 1.08695652173913
+                },
+                {
+                    "Name": "Classics, AH and Archaeology",
+                    "Voters": 45,
+                    "NonVoters": 33,
+                    "Eligible": 78,
+                    "IsOtherItem": false,
+                    "Turnout": 57.6923076923077,
+                    "RelativeTurnout": 48.9130434782609
+                },
+                {
+                    "Name": "Drama and Theatre Arts",
+                    "Voters": 1,
+                    "NonVoters": 0,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 100.0,
+                    "RelativeTurnout": 1.08695652173913
+                },
+                {
+                    "Name": "Economics",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "English Literature",
+                    "Voters": 1,
+                    "NonVoters": 1,
+                    "Eligible": 2,
+                    "IsOtherItem": false,
+                    "Turnout": 50.0,
+                    "RelativeTurnout": 1.08695652173913
+                },
+                {
+                    "Name": "Geography",
+                    "Voters": 1,
+                    "NonVoters": 0,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 100.0,
+                    "RelativeTurnout": 1.08695652173913
+                },
+                {
+                    "Name": "History",
+                    "Voters": 0,
+                    "NonVoters": 2,
+                    "Eligible": 2,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Phil, Theol & Religion",
+                    "Voters": 0,
+                    "NonVoters": 1,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                },
+                {
+                    "Name": "Political Sci & Intern'tl Stud",
+                    "Voters": 1,
+                    "NonVoters": 0,
+                    "Eligible": 1,
+                    "IsOtherItem": false,
+                    "Turnout": 100.0,
+                    "RelativeTurnout": 1.08695652173913
+                },
+                {
+                    "Name": "School of Psychology",
+                    "Voters": 0,
+                    "NonVoters": 2,
+                    "Eligible": 2,
+                    "IsOtherItem": false,
+                    "Turnout": 0.0,
+                    "RelativeTurnout": 0.0
+                }
+            ]
+        },
+        {
+            "Name": "College",
+            "Items": [
+                {
+                    "Name": "College of Arts and Law",
+                    "Voters": 48,
+                    "NonVoters": 39,
+                    "Eligible": 87,
+                    "IsOtherItem": false,
+                    "Turnout": 55.1724137931034,
+                    "RelativeTurnout": 52.1739130434783
+                },
+                {
+                    "Name": "College of Life and Environmental Sciences",
+                    "Voters": 1,
+                    "NonVoters": 2,
+                    "Eligible": 3,
+                    "IsOtherItem": false,
+                    "Turnout": 33.3333333333333,
+                    "RelativeTurnout": 1.08695652173913
+                },
+                {
+                    "Name": "College of Social Sciences",
+                    "Voters": 1,
+                    "NonVoters": 1,
+                    "Eligible": 2,
+                    "IsOtherItem": false,
+                    "Turnout": 50.0,
+                    "RelativeTurnout": 1.08695652173913
+                }
+            ]
+        },
+        {
+            "Name": "Course Code",
+            "Items": [
+                {
+                    "Name": "All other values",
+                    "Voters": 50,
+                    "NonVoters": 42,
+                    "Eligible": 92,
+                    "IsOtherItem": true,
+                    "Turnout": 54.3478260869565,
+                    "RelativeTurnout": 54.3478260869565
+                }
+            ]
+        }
+    ],
+    "Turnout": 54.3478260869565
+}

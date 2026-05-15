@@ -3,8 +3,8 @@ Get's a list of elections and saves it into a file in the `data` folder
 Designed to indicate when new elections have been created on MSL
 """
 
-from notif_utils import *
 from utils import *
+
 
 base_url = "https://www.guildofstudents.com/svc/voting/stats/election/paramstats/" + \
     "?groupIds=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&sortBy=itemname&sortDirection=ascending"
@@ -42,6 +42,8 @@ def get_election_list():
             print("[INFO] Failed to get election with ID " +
                   str(current_id) + " (" + str(failed_attempts) + "/80)")
 
+            current_id += 1
+            continue
 
         # Add the ID and title to the dictionary
         election_list[current_id] = data["Title"]
@@ -54,7 +56,7 @@ def get_election_list():
 
         print("[INFO] Got election with ID " + str(current_id))
 
-        save_election_data_as_json(election_list, current_id)
+        save_election_data_as_json(data, f"data/elections/{current_id}.json")
 
         # increment the ID
         current_id += 1
@@ -70,12 +72,3 @@ def get_election_list():
 
 if __name__ == "__main__":
     get_election_list()
-
-    # send a notification if new election data is found
-    if check_for_changes():
-        # changes found, send notif
-        print("[INFO] Changes found, sending notification...")
-        new_election_data()
-    else:
-        # no changes found
-        print("[INFO] No changes found.")
