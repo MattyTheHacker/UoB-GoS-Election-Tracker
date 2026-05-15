@@ -27,7 +27,7 @@ def get_election_list():
     # current ID to check
     current_id = 1
 
-    while failed_attempts < 50:
+    while failed_attempts < 80:
         url = "https://www.guildofstudents.com/svc/voting/stats/election/paramstats/" + \
             str(current_id) + "?groupIds=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&sortBy=itemname&sortDirection=ascending"
 
@@ -35,12 +35,12 @@ def get_election_list():
         data = get_data(url)
 
         # check if the title is "Unknown"
-        if data["Title"] == "Unknown":
+        if not data or data["Title"] == "Unknown":
             # increment failed attempts
             failed_attempts += 1
 
             print("[INFO] Failed to get election with ID " +
-                  str(current_id) + " (" + str(failed_attempts) + "/50)")
+                  str(current_id) + " (" + str(failed_attempts) + "/80)")
 
         else:
             # Add the ID and title to the dictionary

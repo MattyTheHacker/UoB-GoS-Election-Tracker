@@ -1,4 +1,5 @@
 from requests.adapters import HTTPAdapter, Retry
+from typing import Optional
 import requests
 import json
 
@@ -12,7 +13,7 @@ session.mount('http://', HTTPAdapter(max_retries=retries))
 # get the data from the guild website
 def get_data(url):
     r = session.get(url)
-    return r.json()
+    return r.json() if r else None
 
 # save the data to a file
 def save_formatted_data(data, filename):
