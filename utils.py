@@ -11,17 +11,17 @@ session.mount('http://', HTTPAdapter(max_retries=retries))
 
 
 # get the data from the guild website
-def get_data(url: str):
+def get_data(url: str) -> Optional[dict]:
     r = session.get(url)
     return r.json() if r else None
 
 # save the data to a file
-def save_formatted_data(data, filename: str):
+def save_formatted_data(data: dict, filename: str):
     with open(filename, 'w') as outfile:
         json.dump(data, outfile, indent=4)
 
 # save a dictionary to csv file
-def save_dictionary_to_csv(dictionary, filename: str):
+def save_dictionary_to_csv(dictionary: dict, filename: str):
     # we want to print the csv in the format of: key, value
     with open(filename, 'w') as f:
         # write the headers, election ID and title
@@ -29,6 +29,6 @@ def save_dictionary_to_csv(dictionary, filename: str):
         for key in dictionary.keys():
             f.write("%s,%s\n" % (key, dictionary[key]))
 
-def save_election_data_as_json(data, filename: str):
+def save_election_data_as_json(data: dict, filename: str):
     with open(filename, 'w') as f:
         json.dump(data, f, indent=4)

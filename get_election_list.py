@@ -10,7 +10,7 @@ base_url = "https://www.guildofstudents.com/svc/voting/stats/election/paramstats
     "?groupIds=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&sortBy=itemname&sortDirection=ascending"
 
 
-def get_election_list():
+def get_election_list() -> None:
     # initialise a dictionary of election IDs and Titles
     election_list = {}
 
@@ -22,17 +22,17 @@ def get_election_list():
     """
 
     # the number of failed attempts to get an election
-    failed_attempts = 0
+    failed_attempts: int = 0
 
     # current ID to check
-    current_id = 1
+    current_id: int = 1
 
     while failed_attempts < 80:
         url = "https://www.guildofstudents.com/svc/voting/stats/election/paramstats/" + \
             str(current_id) + "?groupIds=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20&sortBy=itemname&sortDirection=ascending"
 
         # get the election data
-        data = get_data(url)
+        data: Optional[dict] = get_data(url)
 
         # check if the title is "Unknown"
         if not data or data["Title"] == "Unknown":
