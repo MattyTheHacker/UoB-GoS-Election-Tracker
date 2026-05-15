@@ -28,3 +28,7 @@ def save_dictionary_to_csv(dictionary, filename):
         f.write("Election ID,Title\n")
         for key in dictionary.keys():
             f.write("%s,%s\n" % (key, dictionary[key]))
+
+def save_election_data_as_json(data, id):
+    with open(filename, 'w') as f:
+        json.dump(data, f, indent=4)

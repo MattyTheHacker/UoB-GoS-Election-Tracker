@@ -42,17 +42,19 @@ def get_election_list():
             print("[INFO] Failed to get election with ID " +
                   str(current_id) + " (" + str(failed_attempts) + "/80)")
 
-        else:
-            # Add the ID and title to the dictionary
-            election_list[current_id] = data["Title"]
 
-            if failed_attempts > 0:
-                # reset failed attempts
-                failed_attempts = 0
+        # Add the ID and title to the dictionary
+        election_list[current_id] = data["Title"]
 
-                print("[INFO] Reset failed attempts to 0.")
+        if failed_attempts > 0:
+            # reset failed attempts
+            failed_attempts = 0
 
-            print("[INFO] Got election with ID " + str(current_id))
+            print("[INFO] Reset failed attempts to 0.")
+
+        print("[INFO] Got election with ID " + str(current_id))
+
+        save_election_data_as_json(election_list, current_id)
 
         # increment the ID
         current_id += 1
